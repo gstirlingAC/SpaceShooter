@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gordon.stirling.COLLEGE/Documents/Unreal Projects/SpaceShooter/Content/Blueprints/GM_SpaceGame.uasset",
+				"C:/Users/gordon.stirling.COLLEGE/Documents/Unreal Projects/SpaceShooter/Content/UI/W_MainMenu.uasset",
+				"C:/Users/gordon.stirling.COLLEGE/Documents/Unreal Projects/SpaceShooter/Content/Maps/Level_Space.umap",
+				"C:/Users/gordon.stirling.COLLEGE/Documents/Unreal Projects/SpaceShooter/Content/Blueprints/BP_PlayerShip.uasset",
+				"C:/Users/gordon.stirling.COLLEGE/Documents/Unreal Projects/SpaceShooter/Content/Particles/NS_Trail.uasset"
+			]
+		}
+	]
+}
